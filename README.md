@@ -51,8 +51,8 @@ Here are some of the internal tools developed by our team to secure networks and
 
 ## 📫 Connect With Us
 We are always open to collaborating with fellow cybersecurity professionals and exploring new opportunities in the defense landscape.
-* 💼 **LinkedIn:** [MRHATEM/linkedin.com/in/mohamead-hatem]
-* 💼 **LinkedIn:** [MRFODO/linkedin.com/in/mhmd-fouad1896]
+* 💼 **LinkedIn:** [MRHATEM/https://www.linkedin.com/in/mohamead-hatem]
+* 💼 **LinkedIn:** [MRFODO/https://www.linkedin.com/in/mhmd-fouad1896]
 * 📧 **Email:** [securemindteam@gmail.com]
 
 ---
