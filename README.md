@@ -33,10 +33,9 @@ We bridge the gap between theoretical cybersecurity and practical, hands-on defe
 ## 🚀 Our Arsenal (Featured Projects)
 Here are some of the internal tools developed by our team to secure networks and hunt threats:
 
-* 🚨 **[SOC Threat Detection Engine](#):** A real-time log analysis and stateful detection engine mimicking enterprise SIEM pipelines to catch SSH brute-force attacks.
-* 🔍 **[Network Discover Tool](#):** A cross-platform active network reconnaissance utility utilizing ARP to map live hosts.
-* 🛠️ **[ICMP Packet Crafter](#):** An advanced spoofing simulator designed to test firewall ingress/egress rules and validate alerts.
-
+* 🚨 **[SOC Threat Detection Engine](ضع_رابط_المشروع_هنا):** A real-time log analysis and stateful detection engine mimicking enterprise SIEM pipelines to catch SSH brute-force attacks.
+* 🔍 **[Network Discover Tool](ضع_رابط_المشروع_هنا):** A cross-platform active network reconnaissance utility utilizing ARP to map live hosts.
+* 🛠️ **[ICMP Packet Crafter](ضع_رابط_المشروع_هنا):** An advanced spoofing simulator designed to test firewall ingress/egress rules and validate alerts.
 
 *(Note: Click on the projects above to view the source code and documentation).*
 
@@ -52,7 +51,7 @@ Here are some of the internal tools developed by our team to secure networks and
 
 <br>
 
-### 🏆 Continuous Learning & Stats
+## 🏆 Continuous Learning & Stats
 <div align="left">
   <a href="https://tryhackme.com/p/securemindteam" target="_blank">
     <img src="https://tryhackme-badges.s3.amazonaws.com/securemindteam.png" alt="TryHackMe Stats" />
@@ -61,10 +60,11 @@ Here are some of the internal tools developed by our team to secure networks and
 
 ## 📫 Connect With Us
 We are always open to collaborating with fellow cybersecurity professionals and exploring new opportunities in the defense landscape.
-* 💼 **LinkedIn:** [MRHATEM/https://www.linkedin.com/in/mohamead-hatem]
-* 💼 **LinkedIn:** [MRFODO/https://www.linkedin.com/in/mhmd-fouad1896]
-* 🏆 **TryHackMe:** [https://tryhackme.com/p/securemindteam]
-* 📧 **Email:** [securemindteam@gmail.com]
+
+* 💼 **LinkedIn:** [MRHATEM](https://www.linkedin.com/in/mohamead-hatem)
+* 💼 **LinkedIn:** [MRFODO](https://www.linkedin.com/in/mhmd-fouad1896)
+* 🏆 **TryHackMe:** [SecureMind Team Profile](https://tryhackme.com/p/securemindteam)
+* 📧 **Email:** [securemindteam@gmail.com](mailto:securemindteam@gmail.com)
 
 ---
 <div align="center">
