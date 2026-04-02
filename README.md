@@ -39,6 +39,18 @@ Here are some of the internal tools developed by our team to secure networks and
 
 *(Note: Click on the projects above to view the source code and documentation).*
 
+## 📚 Knowledge Base & Training
+A strong defense requires a solid theoretical foundation. We continuously upgrade our skills through industry-standard training and specialized reading.
+
+**🛡️ Certifications & Coursework:**
+* **Security & Pentesting:** CompTIA Security+, eJPTv2 (eLearnSecurity Junior Penetration Tester)
+* **Networking:** Cisco CCNA, CompTIA Network+, CompTIA A+
+* **Systems & Scripting:** CompTIA Linux+, Windows Server, Python, Bash Scripting
+
+**📖 Blue Team Literature & References:**
+* *Effective Threat Investigation for SOC Analysts* - Eng. Mustafa Yehia
+* *SANS SEC450: Blue Team Fundamentals and Security Operations*
+
 ## 🛠️ Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
