@@ -46,6 +46,7 @@ Here are some of the internal tools developed by our team to secure networks and
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  ![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/securemindteam.png)
   <img src="https://img.shields.io/badge/Scapy-FF3333?style=for-the-badge" alt="Scapy" />
   <img src="https://img.shields.io/badge/SIEM_Concepts-000000?style=for-the-badge" alt="SIEM" />
 </p>
